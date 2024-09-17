@@ -1,6 +1,8 @@
 # Mobile App Development Lab 2024 by Leah Yu
 Class work for [IMA Mobile App Development Lab](https://github.com/molab-itp/content-2024-09/blob/main/README.md) course in Fall 2024
 <br>
+<br>
+<br>
 ## 1: 🎨 Fun Emojis
 
 ### 🌈 A primary color picker, a random weather generator, and a vibrant fruit rainbow.
